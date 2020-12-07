@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  SuperCI
+//
+//  Created by Ацкий Станислав on 07.12.2020.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+SECRET_URL = very secret url
+SECRET_TOKEN = 12345678
