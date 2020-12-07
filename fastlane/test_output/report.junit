@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='SuperCITests.xctest' tests='2' failures='0'>
+  <testsuite name='SuperCIUITests.SuperCIUITests' tests='1' failures='0'>
+    <testcase classname='SuperCIUITests.SuperCIUITests' name='testExample' time='2.611'/>
+  </testsuite>
+  <testsuite name='SuperCITests.SuperCITests' tests='1' failures='0'>
+    <testcase classname='SuperCITests.SuperCITests' name='testExample' time='0.006'/>
+  </testsuite>
+</testsuites>
